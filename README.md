@@ -16,3 +16,10 @@ Start the development server using Vite:
 npm run dev
 ```
 The application will be available at http://localhost:5173.
+
+## Test Coverage
+To check test coverage for the project, run the following command:
+```
+npm run coverage
+```
+
